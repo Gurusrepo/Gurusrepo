@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Guru Prasad
 
 BTECH IT (2022 - 2026) 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed">
 - 🔭 Here's my [portfolio](https://guru-prasad-portfolio.web.app/)
 - 📌 Im Currently learing DSA
 - 🔗 Im looking for help in placement in FAANG
@@ -21,7 +21,7 @@ BTECH IT (2022 - 2026)
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="50" height="50" src="https://img.icons8.com/clouds/100/github.png" alt="github"/><img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img width="50" height="50" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/> <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
 
-- ⚡ Fun fact: I am also in mobile hardware 😅.
+
 
 
 
@@ -29,4 +29,4 @@ BTECH IT (2022 - 2026)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/guruprasadhhh?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
 
-[![Guru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- ⚡ Fun fact: I also worked in mobile hardware 😅.
