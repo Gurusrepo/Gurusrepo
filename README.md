@@ -40,7 +40,7 @@ BTECH IT (2022 - 2026)
 
 <h1>Leet Code</h1>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/guruprasadprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/guruprasadprogrammer?ext=contest&theme=dark)](https://leetcode.com/guruprasadprogrammer)
 
 
 
