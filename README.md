@@ -23,7 +23,7 @@ BTECH IT (2022 - 2026)
 
 
 
-
+<h1>Git Hub</h1>
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Gurusrepo&show_icons=true&theme=github_dark)
 
@@ -38,6 +38,10 @@ BTECH IT (2022 - 2026)
   </picture>
 </p>
 
+<h1>Leet Code</h1>
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/guruprasadprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+
+
 
 - ⚡ Fun fact: I also worked in mobile hardware 😅.
