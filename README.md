@@ -25,7 +25,18 @@ BTECH IT (2022 - 2026)
 
 
 
-![Guru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurusrepo&theme=dark&show_icons=true&&hide=issues,contribs)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Gurusrepo&show_icons=true&theme=github_dark)
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Gurusrepo/Gurusrepo/output/github-snake-darkblue.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Gurusrepo/Gurusrepo/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/Gurusrepo/Gurusrepo/output/github-snake.svg">
+  </picture>
+</p>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/guruprasadprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
 
